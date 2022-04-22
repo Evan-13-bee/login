@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "login": "jsonservfffffffer",
+      "id": 1,
+      "password": "typicvvvvvvvvvode"
+    }
+  ],
+  "contacts": {
+    "jsonservfffffffer": [
+      {
+        "name": "Evan",
+        "Number": "324245245235"
+      },
+      {
+        "name": "sdfsdfdf",
+        "Number": "324245245235"
+      }
+    ]
+  },
+  "authorization": [
+    {
+      "login": "jsonserver",
+      "id": 1,
+      "password": "typicode"
+    }
+  ]
+}
